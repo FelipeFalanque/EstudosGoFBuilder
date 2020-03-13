@@ -1,0 +1,11 @@
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\bin\Debug\netcoreapp2.1\ExemploBuilder_02.deps.json
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\bin\Debug\netcoreapp2.1\ExemploBuilder_02.runtimeconfig.json
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\bin\Debug\netcoreapp2.1\ExemploBuilder_02.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\bin\Debug\netcoreapp2.1\ExemploBuilder_02.dll
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\bin\Debug\netcoreapp2.1\ExemploBuilder_02.pdb
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\obj\Debug\netcoreapp2.1\ExemploBuilder_02.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\obj\Debug\netcoreapp2.1\ExemploBuilder_02.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\obj\Debug\netcoreapp2.1\ExemploBuilder_02.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\obj\Debug\netcoreapp2.1\ExemploBuilder_02.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\obj\Debug\netcoreapp2.1\ExemploBuilder_02.dll
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_02\ExemploBuilder_02\obj\Debug\netcoreapp2.1\ExemploBuilder_02.pdb
