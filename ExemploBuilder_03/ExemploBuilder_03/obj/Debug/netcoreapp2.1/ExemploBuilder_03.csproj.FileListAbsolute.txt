@@ -8,3 +8,4 @@ C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_03\ExemploBuilder_03\obj\D
 C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_03\ExemploBuilder_03\obj\Debug\netcoreapp2.1\ExemploBuilder_03.AssemblyInfo.cs
 C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_03\ExemploBuilder_03\obj\Debug\netcoreapp2.1\ExemploBuilder_03.dll
 C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_03\ExemploBuilder_03\obj\Debug\netcoreapp2.1\ExemploBuilder_03.pdb
+C:\Users\Felipe\Desktop\Estudo Builder\ExemploBuilder_03\ExemploBuilder_03\obj\Debug\netcoreapp2.1\ExemploBuilder_03.csprojAssemblyReference.cache

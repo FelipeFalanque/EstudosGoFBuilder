@@ -1,0 +1,10 @@
+https://www.dofactory.com/net/builder-design-pattern#UML
+
+https://robsoncastilho.com.br/2012/02/05/construindo-objetos-complexos-com-builders-parte-1-de-2/
+https://robsoncastilho.com.br/2012/02/12/construindo-objetos-complexos-com-builders-parte-2-de-2/
+
+http://www.macoratti.net/19/05/net_builder1.htm
+
+livros :
+	Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos
+	Use a Cabeça!: Padrões de Projetos
